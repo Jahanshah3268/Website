@@ -1,0 +1,45 @@
+.container {
+    background-image: url(download.jpg);
+    height: 600px;
+    width: 1300px;
+}
+
+.bar {
+    color: white;
+}
+
+a {
+    margin-left: 20px;
+    cursor: pointer;
+    transition: 1s;
+    text-align: center;
+}
+
+a:hover {
+    color: blue;
+}
+
+.head1 {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.para {
+    color: white;
+    font-size: 22px;
+    margin-top: 22px;
+}
+
+.button {
+    margin: 20px;
+    padding: 80px;
+
+
+}
+
+
+.button1 {
+    margin-left: 400px;
+}
